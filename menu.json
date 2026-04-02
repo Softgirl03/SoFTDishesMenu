@@ -26,7 +26,7 @@
   {"id":25,"price":700,"badge":""},
   {"id":26,"price":500,"badge":""},
   {"id":27,"price":300,"badge":""},
-  {"id":28,"price":8500,"badge":"popular"},
+  {"id":28,"price":10000,"badge":"popular"},
   {"id":29,"price":3500,"badge":"new"},
-  {"id":30,"price":18000,"badge":""}
+  {"id":30,"price":50000,"badge":""}
 ]
