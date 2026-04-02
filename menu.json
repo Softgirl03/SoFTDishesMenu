@@ -26,7 +26,7 @@
   {"id":25,"name":"Kunu","price":500,"badge":""},
   {"id":26,"name":"Soft Drinks (330ml)","price":500,"badge":""},
   {"id":27,"name":"Bottled Water","price":300,"badge":""},
-  {"id":28,"name":"Party Pack (6 pcs)","price":8500,"badge":"popular"},
-  {"id":29,"name":"Student Special","price":3500,"badge":"new"},
-  {"id":30,"name":"Family Feast","price":18000,"badge":""}
+  {"id":28,"name":"Party Pack (6 pcs)","price":10000,"badge":"popular"},
+  {"id":29,"name":"Student Special","price":5000,"badge":"new"},
+  {"id":30,"name":"Family Feast","price":50000,"badge":""}
 ]
