@@ -1,55 +1,236 @@
 {
   "products": [
-    {"id":1,"name":"Bone Straight Perfection","price":85000},
-    {"id":2,"name":"HD Lace Frontal Wig","price":120000},
-    {"id":3,"name":"Bouncy Body Wave","price":95000},
-    {"id":4,"name":"Kinky Curly Queen","price":105000},
-    {"id":5,"name":"Silky Straight Bob","price":75000},
-    {"id":6,"name":"Deep Wave Goddess","price":135000},
-    {"id":7,"name":"Yaki Texture Wig","price":88000},
-    {"id":8,"name":"Loose Deep Wave","price":110000},
-    {"id":9,"name":"Pixie Cut Sensation","price":70000},
-    {"id":10,"name":"613 Blonde Bombshell","price":145000},
-    {"id":11,"name":"Water Wave Luxe","price":115000},
-    {"id":12,"name":"Jerry Curl Glam","price":98000},
-    {"id":13,"name":"Ombre Caramel Wave","price":130000},
-    {"id":14,"name":"Straight Bob Frontal","price":100000},
-    {"id":15,"name":"Burgundy Wave Queen","price":125000},
-    {"id":16,"name":"Loose Wave Closure","price":118000},
-    {"id":17,"name":"Glueless HD Frontal","price":140000},
-    {"id":18,"name":"Spring Curl Bounce","price":92000},
-    {"id":19,"name":"V-Part Straight Wig","price":72000},
-    {"id":20,"name":"Raw Donor Bone Straight","price":195000},
-    {"id":21,"name":"Ginger Straight 13x6 Frontal","price":220000},
-    {"id":22,"name":"Ginger Body Wave 13x6","price":180000},
-    {"id":23,"name":"99J Burgundy Body Wave","price":185000},
-    {"id":24,"name":"Burgundy Raw Frontal Wig","price":125000},
-    {"id":25,"name":"SDD Bounce Wig","price":150000},
-    {"id":26,"name":"Super Drawn Bounce Frontal","price":165000},
-    {"id":27,"name":"Pixie Tiwa Frontal Wig","price":35000},
-    {"id":28,"name":"Wolf Cut Burgundy Skunk Stripe","price":140000},
-    {"id":29,"name":"Bone Straight Fringe Closure","price":100000},
-    {"id":30,"name":"Glueless Pixie Curls HD Lace","price":170000}
+    {
+      "id": 1,
+      "name": "Bone Straight Perfection",
+      "price": 85000
+    },
+    {
+      "id": 2,
+      "name": "HD Lace Frontal Wig",
+      "price": 120000
+    },
+    {
+      "id": 3,
+      "name": "Bouncy Body Wave",
+      "price": 95000
+    },
+    {
+      "id": 4,
+      "name": "Kinky Curly Queen",
+      "price": 105000
+    },
+    {
+      "id": 5,
+      "name": "Silky Straight Bob",
+      "price": 75000
+    },
+    {
+      "id": 6,
+      "name": "Deep Wave Goddess",
+      "price": 135000
+    },
+    {
+      "id": 7,
+      "name": "Yaki Texture Wig",
+      "price": 88000
+    },
+    {
+      "id": 8,
+      "name": "Loose Deep Wave",
+      "price": 110000
+    },
+    {
+      "id": 9,
+      "name": "Pixie Cut Sensation",
+      "price": 70000
+    },
+    {
+      "id": 10,
+      "name": "613 Blonde Bombshell",
+      "price": 145000
+    },
+    {
+      "id": 11,
+      "name": "Water Wave Luxe",
+      "price": 115000
+    },
+    {
+      "id": 12,
+      "name": "Jerry Curl Glam",
+      "price": 98000
+    },
+    {
+      "id": 13,
+      "name": "Ombre Caramel Wave",
+      "price": 130000
+    },
+    {
+      "id": 14,
+      "name": "Straight Bob Frontal",
+      "price": 100000
+    },
+    {
+      "id": 15,
+      "name": "Burgundy Wave Queen",
+      "price": 125000
+    },
+    {
+      "id": 16,
+      "name": "Loose Wave Closure",
+      "price": 118000
+    },
+    {
+      "id": 17,
+      "name": "Glueless HD Frontal",
+      "price": 140000
+    },
+    {
+      "id": 18,
+      "name": "Spring Curl Bounce",
+      "price": 92000
+    },
+    {
+      "id": 19,
+      "name": "V-Part Straight Wig",
+      "price": 72000
+    },
+    {
+      "id": 20,
+      "name": "Raw Donor Bone Straight",
+      "price": 195000
+    },
+    null,
+    null,
+    {
+      "id": 21,
+      "name": "Ginger Straight 13x6 Frontal",
+      "price": 220000
+    },
+    {
+      "id": 22,
+      "name": "Ginger Body Wave 13x6",
+      "price": 180000
+    },
+    {
+      "id": 23,
+      "name": "99J Burgundy Body Wave",
+      "price": 185000
+    },
+    {
+      "id": 24,
+      "name": "Burgundy Raw Frontal Wig",
+      "price": 125000
+    },
+    {
+      "id": 25,
+      "name": "SDD Bounce Wig",
+      "price": 150000
+    },
+    {
+      "id": 26,
+      "name": "Super Drawn Bounce Frontal",
+      "price": 165000
+    },
+    {
+      "id": 27,
+      "name": "Pixie Tiwa Frontal Wig",
+      "price": 35000
+    },
+    {
+      "id": 28,
+      "name": "Wolf Cut Burgundy Skunk Stripe",
+      "price": 140000
+    },
+    {
+      "id": 29,
+      "name": "Bone Straight Fringe Closure",
+      "price": 100000
+    },
+    {
+      "id": 30,
+      "name": "Glueless Pixie Curls HD Lace",
+      "price": 170000
+    }
   ],
   "services": [
-    {"id":"s1","name":"Wig Revamping","price":8000},
-    {"id":"s2","name":"Closure Fixing","price":5000},
-    {"id":"s3","name":"Wig Styling","price":6000},
-    {"id":"s4","name":"Deep Conditioning","price":4000},
-    {"id":"s5","name":"Bleaching & Tinting","price":12000},
-    {"id":"s6","name":"Custom Wig Making","price":25000},
-    {"id":"s7","name":"Knot Bleaching","price":4500},
-    {"id":"s8","name":"Steam & Detangle","price":3500}
+    {
+      "id": "s1",
+      "name": "Wig Revamping",
+      "price": 8000
+    },
+    {
+      "id": "s2",
+      "name": "Closure Fixing",
+      "price": 5000
+    },
+    {
+      "id": "s3",
+      "name": "Wig Styling",
+      "price": 6000
+    },
+    {
+      "id": "s4",
+      "name": "Deep Conditioning",
+      "price": 4000
+    },
+    {
+      "id": "s5",
+      "name": "Bleaching & Tinting",
+      "price": 12000
+    },
+    {
+      "id": "s6",
+      "name": "Custom Wig Making",
+      "price": 25000
+    },
+    {
+      "id": "s7",
+      "name": "Knot Bleaching",
+      "price": 4500
+    },
+    {
+      "id": "s8",
+      "name": "Steam & Detangle",
+      "price": 3500
+    }
   ],
   "delivery": {
-    "Lagos":3000,"Ogun":3500,"Oyo":3500,"Osun":4000,
-    "Ondo":4000,"Ekiti":3500,"Kwara":4000,"Abuja FCT":5000,
-    "Edo":4000,"Delta":3500,"Anambra":4000,"Enugu":4000,
-    "Imo":4000,"Abia":4000,"Rivers":4500,"Bayelsa":4500,
-    "Cross River":4000,"Akwa Ibom":4000,"Benue":4500,"Kogi":4500,
-    "Niger":4000,"Plateau":4000,"Nasarawa":4000,"Taraba":3500,
-    "Adamawa":4000,"Gombe":4000,"Bauchi":4500,"Borno":4000,
-    "Yobe":4500,"Kano":5000,"Katsina":5000,"Kaduna":5000,
-    "Sokoto":5000,"Zamfara":5000,"Kebbi":5000,"Jigawa":4500
+    "Lagos": 3000,
+    "Ogun": 3500,
+    "Oyo": 4000,
+    "Osun": 3500,
+    "Ondo": 3500,
+    "Ekiti": 4500,
+    "Kwara": 5000,
+    "Abuja FCT": 5000,
+    "Edo": 4000,
+    "Delta": 4500,
+    "Anambra": 4000,
+    "Enugu": 4000,
+    "Imo": 4000,
+    "Abia": 4000,
+    "Rivers": 4000,
+    "Bayelsa": 4000,
+    "Cross River": 4000,
+    "Akwa Ibom": 4000,
+    "Benue": 4000,
+    "Kogi": 4500,
+    "Niger": 4000,
+    "Plateau": 5000,
+    "Nasarawa": 5000,
+    "Taraba": 5000,
+    "Adamawa": 4000,
+    "Gombe": 4500,
+    "Bauchi": 4500,
+    "Borno": 4000,
+    "Yobe": 4500,
+    "Kano": 5000,
+    "Katsina": 5000,
+    "Kaduna": 5000,
+    "Sokoto": 5000,
+    "Zamfara": 5000,
+    "Kebbi": 5000,
+    "Jigawa": 5000
   }
 }
