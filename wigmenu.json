@@ -1,0 +1,46 @@
+{
+  "products": [
+    {"id":1,"name":"Bone Straight Perfection","price":85000},
+    {"id":2,"name":"HD Lace Frontal Wig","price":120000},
+    {"id":3,"name":"Bouncy Body Wave","price":95000},
+    {"id":4,"name":"Kinky Curly Queen","price":105000},
+    {"id":5,"name":"Silky Straight Bob","price":75000},
+    {"id":6,"name":"Deep Wave Goddess","price":135000},
+    {"id":7,"name":"Yaki Texture Wig","price":88000},
+    {"id":8,"name":"Loose Deep Wave","price":110000},
+    {"id":9,"name":"Pixie Cut Sensation","price":70000},
+    {"id":10,"name":"613 Blonde Bombshell","price":145000},
+    {"id":11,"name":"Water Wave Luxe","price":115000},
+    {"id":12,"name":"Jerry Curl Glam","price":98000},
+    {"id":13,"name":"Ombre Caramel Wave","price":130000},
+    {"id":14,"name":"Straight Bob Frontal","price":100000},
+    {"id":15,"name":"Burgundy Wave Queen","price":125000},
+    {"id":16,"name":"Loose Wave Closure","price":118000},
+    {"id":17,"name":"Glueless HD Frontal","price":140000},
+    {"id":18,"name":"Spring Curl Bounce","price":92000},
+    {"id":19,"name":"V-Part Straight Wig","price":72000},
+    {"id":20,"name":"Raw Donor Bone Straight","price":195000},
+    {"id":21,"name":"Ginger Straight 13x6 Frontal","price":220000}
+  ],
+  "services": [
+    {"id":"s1","name":"Wig Revamping","price":8000},
+    {"id":"s2","name":"Closure Fixing","price":5000},
+    {"id":"s3","name":"Wig Styling","price":6000},
+    {"id":"s4","name":"Deep Conditioning","price":4000},
+    {"id":"s5","name":"Bleaching & Tinting","price":12000},
+    {"id":"s6","name":"Custom Wig Making","price":25000},
+    {"id":"s7","name":"Knot Bleaching","price":4500},
+    {"id":"s8","name":"Steam & Detangle","price":3500}
+  ],
+  "delivery": {
+    "Lagos":3000,"Ogun":4500,"Oyo":5500,"Osun":6000,
+    "Ondo":6500,"Ekiti":6500,"Kwara":6000,"Abuja FCT":7500,
+    "Edo":7000,"Delta":7500,"Anambra":8000,"Enugu":8000,
+    "Imo":8000,"Abia":8500,"Rivers":8500,"Bayelsa":9000,
+    "Cross River":9000,"Akwa Ibom":9000,"Benue":9500,"Kogi":8500,
+    "Niger":9000,"Plateau":10000,"Nasarawa":9000,"Taraba":11000,
+    "Adamawa":11000,"Gombe":11000,"Bauchi":11000,"Borno":12000,
+    "Yobe":12000,"Kano":10000,"Katsina":11000,"Kaduna":10000,
+    "Sokoto":12000,"Zamfara":12000,"Kebbi":12000,"Jigawa":11000
+  }
+}
