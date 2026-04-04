@@ -33,14 +33,14 @@
     {"id":"s8","name":"Steam & Detangle","price":3500}
   ],
   "delivery": {
-    "Lagos":3000,"Ogun":4500,"Oyo":5500,"Osun":6000,
-    "Ondo":6500,"Ekiti":6500,"Kwara":6000,"Abuja FCT":7500,
-    "Edo":7000,"Delta":7500,"Anambra":8000,"Enugu":8000,
-    "Imo":8000,"Abia":8500,"Rivers":8500,"Bayelsa":9000,
-    "Cross River":9000,"Akwa Ibom":9000,"Benue":9500,"Kogi":8500,
-    "Niger":9000,"Plateau":10000,"Nasarawa":9000,"Taraba":11000,
-    "Adamawa":11000,"Gombe":11000,"Bauchi":11000,"Borno":12000,
-    "Yobe":12000,"Kano":10000,"Katsina":11000,"Kaduna":10000,
-    "Sokoto":12000,"Zamfara":12000,"Kebbi":12000,"Jigawa":11000
+    "Lagos":3000,"Ogun":3500,"Oyo":3500,"Osun":4000,
+    "Ondo":4000,"Ekiti":3500,"Kwara":4000,"Abuja FCT":5000,
+    "Edo":4000,"Delta":3500,"Anambra":4000,"Enugu":4000,
+    "Imo":4000,"Abia":4000,"Rivers":4500,"Bayelsa":4500,
+    "Cross River":4000,"Akwa Ibom":4000,"Benue":4500,"Kogi":4500,
+    "Niger":4000,"Plateau":4000,"Nasarawa":4000,"Taraba":3500,
+    "Adamawa":4000,"Gombe":4000,"Bauchi":4500,"Borno":4000,
+    "Yobe":4500,"Kano":5000,"Katsina":5000,"Kaduna":5000,
+    "Sokoto":5000,"Zamfara":5000,"Kebbi":5000,"Jigawa":4500
   }
 }
